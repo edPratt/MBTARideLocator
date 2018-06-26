@@ -25,6 +25,10 @@ Note: More information to use this module is documented in the class docstring
 
 When done:
 
-```deactivate```
+```
+deactivate
+```
             
-```rm -rf env```
+```
+rm -rf env
+```

@@ -1,0 +1,23 @@
+To use/run:
+    Basic Instructions:
+    Use python3
+
+    (Install virtualenv if needed, or something similar)
+        virtualenv -p python3 env
+        source env/bin/activate
+
+    (If virtual environments are unavailable)
+        pip install requests
+        pip install geopy
+
+    pip install -r requirements.txt
+
+    Run:
+        python main.py
+
+    Note: More information to use this module is documented in the class docstring
+
+    When done:
+        (If using virtualenv)
+            deactivate
+            rm -rf env
